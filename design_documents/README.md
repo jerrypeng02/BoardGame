@@ -1,0 +1,1 @@
+I was planning to make the player input: get tile, place tile, place meeple, and rotate tile as command using command pattern. But currently I will leave it for now without implementing the command pattern. If it is necessary, I will utilize the command pattern again in the future milestone.
